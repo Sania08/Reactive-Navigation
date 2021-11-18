@@ -12,5 +12,5 @@
     * One frame of reference is attached to each turtlesim robot and the relative transformation between these two frames is calculated.
     * Then, control commands are given such that it follows the teleoperated robot using feedback control.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64685403/124175621-70c35d80-dacb-11eb-8d30-cd0be936af33.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/64685403/142398934-4ee75385-6bc0-4a84-91c2-5b5d05654b6a.gif" width="300">
 </p>
